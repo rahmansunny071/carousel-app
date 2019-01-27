@@ -1,0 +1,48 @@
+html, body, #root, .Carousel {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+.slide {
+  height: 100%;
+  width: 100%;
+  transition: background-image .3s ease-in-out;
+}
+
+.slide-arrow {
+  color: #14B6D4;
+  cursor: pointer;
+  font-size: 2rem;
+  position: fixed;
+  top: 50%;
+}
+
+.slide-arrow.right {
+  right: 1rem;
+}
+
+.slide-arrow.left {
+  left: 1rem;
+}
+
+.dots-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  z-index: 9999;
+  padding: 5px 0;
+}
+
+.dot {
+background: #222;
+display: inline-block;
+padding: 10px;
+margin-right: 5px;
+cursor: pointer;
+border-radius: 50%;
+}
+.active {
+background: #fff;
+}

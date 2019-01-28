@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Access the Carousel App
+## Access the Carousel App
 
 Access the live app at [https://rahmansunny071.github.io/carousel-app/](https://rahmansunny071.github.io/carousel-app/)
 

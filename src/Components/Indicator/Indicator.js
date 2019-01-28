@@ -1,6 +1,8 @@
 import React from 'react'
 import Dot from './Dot';
 
+//return an indicator component (dots-container) with a list of dots (dotsGroup) 
+
 const Indicator = ({ index, images, dotClick }) => {
   
   const dotsGroup = images.map((image, i) => {

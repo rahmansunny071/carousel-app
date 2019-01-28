@@ -6,11 +6,11 @@ import Arrow from './Arrow';
 import Indicator from './Indicator/Indicator';
 
 const imgUrls = [
-	'https://cmeimg-a.akamaihd.net/640/clsd/getty/c64f76dc20c246ca88ee180fe4b4b781', 
-	'https://lh3.googleusercontent.com/oxPeODS2m6rYIVbhcQChRtOWEYeGDwbeeeB1cDU2o_WYAVPU61VIgx-_6BAh5gSL8Sw=h900',
-	'https://i0.wp.com/www.universodegatos.com/wp-content/uploads/2017/04/fivfelv7.jpg?resize=582%2C328',
-	'https://i.pinimg.com/736x/07/c3/45/07c345d0eca11d0bc97c894751ba1b46.jpg',
-	'https://ehealthforum.com/health/images/avatars/11699147425707699031013.jpeg'
+	'https://wpblink.com/sites/default/files/wallpaper/movie/72658/avengers-wallpapers-hd-72658-211614.png', 
+	'https://wallpapermemory.com/uploads/608/captain-america-marvel-comics-background-hd-2560x1440-292735.jpg',
+	'http://cdn.collider.com/wp-content/uploads/iron_man_2_movie_image_hi-res_03-600x337.jpg',
+	'https://images6.alphacoders.com/620/thumb-1920-620069.jpg',
+	'https://wallpaperaccess.com/full/110384.jpg'
 ];
 
 export default class Carousel extends React.Component {

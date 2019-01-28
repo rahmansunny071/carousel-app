@@ -1,14 +1,14 @@
 {
-  "main.css": "/carousel-app/static/css/main.6d69678e.chunk.css",
-  "main.js": "/carousel-app/static/js/main.36b64393.chunk.js",
-  "main.js.map": "/carousel-app/static/js/main.36b64393.chunk.js.map",
-  "static/js/1.8abe5222.chunk.js": "/carousel-app/static/js/1.8abe5222.chunk.js",
-  "static/js/1.8abe5222.chunk.js.map": "/carousel-app/static/js/1.8abe5222.chunk.js.map",
-  "runtime~main.js": "/carousel-app/static/js/runtime~main.f2e2c8bd.js",
-  "runtime~main.js.map": "/carousel-app/static/js/runtime~main.f2e2c8bd.js.map",
-  "static/media/logo.svg": "/carousel-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6d69678e.chunk.css.map": "/carousel-app/static/css/main.6d69678e.chunk.css.map",
-  "index.html": "/carousel-app/index.html",
-  "precache-manifest.8fcefcdae98df59f41850e0598a202e7.js": "/carousel-app/precache-manifest.8fcefcdae98df59f41850e0598a202e7.js",
-  "service-worker.js": "/carousel-app/service-worker.js"
+  "main.css": "/static/css/main.6d69678e.chunk.css",
+  "main.js": "/static/js/main.45a1704e.chunk.js",
+  "main.js.map": "/static/js/main.45a1704e.chunk.js.map",
+  "static/js/1.8abe5222.chunk.js": "/static/js/1.8abe5222.chunk.js",
+  "static/js/1.8abe5222.chunk.js.map": "/static/js/1.8abe5222.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6d69678e.chunk.css.map": "/static/css/main.6d69678e.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.b65d06306cdc2c96211719e9e595b9f4.js": "/precache-manifest.b65d06306cdc2c96211719e9e595b9f4.js",
+  "service-worker.js": "/service-worker.js"
 }

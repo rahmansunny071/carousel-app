@@ -29,7 +29,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-### serve -s build
+### `serve -s build`
 
 Static server that hosts the build on port 5000. [http://localhost:3000](http://localhost:5000/)
 

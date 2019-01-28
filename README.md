@@ -48,5 +48,5 @@ Your app is ready to be deployed!
 
 ### `serve -s build`
 
-Static server that hosts the build on port 5000. [http://localhost:3000](http://localhost:5000/)
+Static server that hosts the build on port 5000. [http://localhost:5000](http://localhost:5000/)
 

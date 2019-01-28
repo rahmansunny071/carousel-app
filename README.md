@@ -5,6 +5,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Access the live app at [https://rahmansunny071.github.io/carousel-app/](https://rahmansunny071.github.io/carousel-app/)
 
 
+## Code Structure
+
+The `src` folder contains the 'Carousel' implementations. The structure is as follows:
+
+```
+src/
+	index.js
+	Componets/
+		Carousel.js --- the main component, Carousel
+		Carousel.css --- styleSheet
+		Slide.js --- Each slide of a carousel
+		Arrow.js --- arrow factory, renders left and right arrow
+		Indicator/
+			Indicator.js --- slide index indicator with a collection of dots
+			Dot.js --- each dot of an indicator
+```
+
 ## Development Mode
 
 In the project directory, you can run:

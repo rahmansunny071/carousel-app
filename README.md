@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Access the live app at [https://rahmansunny071.github.io/carousel-app/](https://rahmansunny071.github.io/carousel-app/)
 
+## Data Format
+
+Expect data format retuned by the back end: a `json` file with a list of image URLs.  
+
 
 ## Code Structure
 
